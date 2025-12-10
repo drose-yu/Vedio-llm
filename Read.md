@@ -43,3 +43,6 @@
     FAILED：任务执行失败
     CANCELED：任务已取消
     UNKNOWN：任务不存在或状态未知
+## 四、最终效果
+    见vedio文件夹
+
